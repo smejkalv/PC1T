@@ -5,3 +5,4 @@ VUT BPC-PC1T repo, for school projects in C
 Inital setup
 / 26.09.2023
 set permissions for teacher
+create folders
